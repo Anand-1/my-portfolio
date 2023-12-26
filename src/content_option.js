@@ -170,9 +170,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/Anand-1",
+  facebook: "https://www.facebook.com/anand.r.chauhan.3/",
+  linkedin: "https://www.linkedin.com/in/anand-raj-00349ba8/",
   twitter: "https://twitter.com",
 };
 export {
