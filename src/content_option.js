@@ -2,7 +2,7 @@ const logotext = "Anand";
 const meta = {
   title: "Anand Raj",
   description:
-    "I’m Anand Raj,  Frontend Developer _ Full stack devloper,currently working in Bangalore",
+    "I’m Anand Raj,  Frontend Developer / Full stack devloper,currently working in Bangalore",
 };
 
 const introdata = {
@@ -12,20 +12,19 @@ const introdata = {
     second: "I code cool websites",
     third: "I develop mobile apps",
   },
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+  description: "I am a Frontend Developer !",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-  title: "abit about my self",
+  title: "About Myself",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "As Frontend Developer, I have 7+ years of experience in designing and developing web applications using various frontend and backend technologies, such as React.js, Angular, Node.js, HTML5, CSS3, JavaScript, Bootstrap, TypeScript, ES6, PostgreSQL, and MongoDB. I have worked with client-side and server-side programming, and have created progressive web applications (PWAs) that enhance user experience and performance.I have successfully delivered multiple projects for different clients and industries, such as e-commerce, healthcare, and information systems, using agile methodologies and project tracking tools like JIRA and GitHub. I have mentored and guided team members, conducted code reviews, and participated in hiring processes. I have a Bachelor of Technology degree in Computer Science from Netaji Subhash Engineering College, Kolkata. I am a quick learner, a versatile and adaptable professional, and a customer-oriented and collaborative team player. My goal is to leverage my skills and expertise to create innovative and impactful web solutions that meet the users' and clients' needs and expectations.",
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
+    jobtitle: "Lead Frontend Developer",
+    where: "Lowe",
     date: "2020",
   },
   {
@@ -42,11 +41,11 @@ const worktimeline = [
 
 const skills = [
   {
-    name: "Python",
+    name: "React.Js",
     value: 90,
   },
   {
-    name: "Djano",
+    name: "Redux",
     value: 85,
   },
   {
@@ -54,8 +53,36 @@ const skills = [
     value: 80,
   },
   {
-    name: "React",
-    value: 60,
+    name: "HTML 5",
+    value: 90,
+  },
+  {
+    name: "CSS 3",
+    value: 85,
+  },
+  {
+    name: "Jquery",
+    value: 85,
+  },
+  {
+    name: "Typescript",
+    value: 70,
+  },
+  {
+    name: "Git",
+    value: 90,
+  },
+  {
+    name: "JIRA",
+    value: 85,
+  },
+  {
+    name: "Bootstrap 4",
+    value: 75,
+  },
+  {
+    name: "MaterlialUI",
+    value: 85,
   },
   {
     name: "Jquery",
@@ -158,13 +185,12 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+  YOUR_EMAIL: "anandrajj10@gmail.com",
+  YOUR_FONE: "+91-8929178338",
+  description: "Anand Raj, BTM 1ST Stage , 100/38 , Bangalore-560068",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
+  YOUR_SERVICE_ID: "VWz4u8PFUlOq7dgzo",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
 };
